@@ -1,0 +1,51 @@
+BIOPRESS DATA QUALITY REPORT
+========================================
+
+Rows:917
+Columns: 8
+
+column Names:
+['Ward', 'Profcat', 'Shift', 'Opp', 'Indication', 'HHaction', 'Missedbutglove', 'Complied']
+
+Data Types:
+Ward                str
+Profcat             str
+Shift               str
+Opp               int64
+Indication          str
+HHaction            str
+Missedbutglove      str
+Complied            str
+
+Missing Values:
+Ward                0
+Profcat             0
+Shift               0
+Opp                 0
+Indication          0
+HHaction          715
+Missedbutglove    202
+Complied            0
+
+Missing Percentage:
+Ward               0.00
+Profcat            0.00
+Shift              0.00
+Opp                0.00
+Indication         0.00
+HHaction          77.97
+Missedbutglove    22.03
+Complied           0.00
+
+Duplicate Rows:0
+
+
+Target Distribution:
+Complied
+No     715
+Yes    202
+
+Duplicate Oppotunity IDs:
+           Ward Profcat    Shift  Opp                   Indication       HHaction Missedbutglove Complied
+786  Paediatric   Nurse  Morning  788        After patient contact  HR (hand rub)            NaN      Yes
+787  Paediatric   Nurse  Morning  788  Before an aseptic procedure            NaN            Yes       No

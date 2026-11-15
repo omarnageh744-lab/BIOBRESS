@@ -1,0 +1,49 @@
+# BIOPRESS – Week 1 Data Quality Report
+
+## 1. Dataset Overview
+- Total records: 917
+- Total columns: 8
+- Fully duplicated rows: 0
+- Data types: 7 string columns and 1 integer column.
+
+## 2. Missing Values
+- HHaction: 715 missing values (77.97%).
+- Missedbutglove: 202 missing values (22.03%).
+- All other columns: 0 missing values.
+
+Missing values will not be deleted or imputed at this stage.
+
+## 3. Duplicate Checks
+- No fully duplicated rows were found.
+- One duplicated Opp ID was found: 788.
+- The two records have different values and different Complied labels.
+- Further investigation is required before deciding how to handle this ID.
+
+## 4. Category Validation
+- Ward: No invalid values.
+- Profcat: No invalid values.
+- Shift: No invalid values according to the checked categories.
+- Complied: No invalid values.
+- Indication: No invalid values.
+
+## 5. Category Inconsistency
+The dataset contains "After noon" in Shift, while the expected category in the Data Dictionary is "Afternoon".
+
+This inconsistency should be standardized after confirming the expected value.
+
+## 6. Target Distribution
+- No: 715 records (77.97%).
+- Yes: 202 records (22.03%).
+
+The target variable is imbalanced.
+
+## 7. Initial Findings
+1. The dataset contains 917 records and 8 columns.
+2. Missing values exist in HHaction and Missedbutglove.
+3. One repeated Opp ID requires investigation.
+4. The Shift category contains a naming inconsistency.
+5. The target variable Complied is imbalanced.
+6. No invalid values were found in the validated categories.
+
+## 8. Conclusion
+Week 1 dataset inspection and initial data quality checks have been completed. The original dataset has not been modified.
