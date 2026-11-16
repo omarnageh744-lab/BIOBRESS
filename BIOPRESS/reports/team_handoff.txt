@@ -1,0 +1,65 @@
+BIOPRESS - DATA ENGINEERING HANDOFF
+
+1. Main Dataset:
+data/modeling_dataset.csv
+
+2. Dataset Information:
+Total Records: 917
+Total Columns: 5
+
+3. Input Features:
+- Ward
+- Profcat
+- Shift
+- Indication
+
+4. Target Variable:
+- Complied
+
+5. Target Classes:
+- Yes
+- No
+
+Target Distribution:
+- No: 715 (77.97%)
+- Yes: 202 (22.03%)
+
+Encoded Feature Count: 17
+
+6. Preprocessing:
+- Missing values checked.
+- Shift values standardized.
+- OneHotEncoder configured for the four categorical features.
+- The main modeling dataset contains original categorical values.
+- Encoding must be fitted on training data only.
+- The fitted preprocessor must transform validation and test data.
+- Target variable kept as Yes/No in the main dataset.
+- Train/Test split validated.
+- Preprocessing fitted on training data only.
+
+7. Important Notes:
+- Do not use Opp as a model feature.
+- Do not use HHaction or Missedbutglove as model features.
+- Use the four approved input features only.
+- Use Complied as the prediction target.
+
+8. Dataset Limitations:
+- Dataset contains 917 observations.
+- Target classes are imbalanced.
+- Results should not be interpreted as causal relationships.
+- Predictions should not be used for staff ranking or disciplinary decisions.
+
+9. Evaluation Notes:
+- Check for repeated feature combinations before model evaluation.
+- Prevent data leakage between training and testing.
+- Evaluate using ROC-AUC and PR-AUC.
+- Consider the class imbalance when interpreting results.
+- The independence of observations has not been confirmed.
+- Random train-test splitting may place similar records
+  in both training and testing sets.
+- The AI team should investigate this risk before
+  interpreting model performance.
+
+Prepared by:
+Data Engineering Team
+

@@ -1,0 +1,918 @@
+Ward,Profcat,Shift,Indication,Complied
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,Before patient contact,No
+Surgical,Other,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,After patient contact,No
+Surgical,Nurse,Morning,Before an aseptic procedure,No
+Surgical,Other,Morning,After contact with patient Surroundings,No
+Surgical,Medical doctor,Morning,After contact with patient Surroundings,No
+Surgical,Nurse,Morning,After body fluid exposure,No
+Surgical,Other,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,Before an aseptic procedure,No
+Surgical,Other,Morning,After body fluid exposure,Yes
+Surgical,Medical doctor,Morning,Before an aseptic procedure,No
+Surgical,Nurse,Morning,After patient contact,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,Before patient contact,No
+Surgical,Medical doctor,Morning,Before an aseptic procedure,No
+Surgical,Nurse,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,After contact with patient Surroundings,No
+Surgical,Nurse,Morning,After patient contact,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,After body fluid exposure,Yes
+Surgical,Medical doctor,Morning,After body fluid exposure,Yes
+Surgical,Nurse,Morning,After body fluid exposure,Yes
+Surgical,Medical doctor,Morning,After contact with patient Surroundings,No
+Surgical,Nurse,Morning,After patient contact,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,Before patient contact,No
+Surgical,Medical doctor,Morning,After contact with patient Surroundings,No
+Surgical,Nurse,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,After body fluid exposure,No
+Surgical,Nurse,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,After patient contact,No
+Surgical,Medical doctor,Morning,After contact with patient Surroundings,No
+Surgical,Medical doctor,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Other,Afternoon,Before an aseptic procedure,No
+Surgical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Medical doctor,Afternoon,After patient contact,Yes
+Surgical,Nurse,Afternoon,After contact with patient Surroundings,Yes
+Surgical,Medical doctor,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,After body fluid exposure,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,After patient contact,Yes
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,After body fluid exposure,Yes
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,After body fluid exposure,No
+Surgical,Nurse,Afternoon,After contact with patient Surroundings,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,After body fluid exposure,No
+Surgical,Nurse,Afternoon,After contact with patient Surroundings,Yes
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Medical doctor,Night,Before patient contact,No
+Surgical,Nurse,Night,Before an aseptic procedure,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,Before patient contact,No
+Surgical,Nurse,Night,After contact with patient Surroundings,Yes
+Surgical,Medical doctor,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Other,Afternoon,Before an aseptic procedure,No
+Surgical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Other,Afternoon,After body fluid exposure,Yes
+Surgical,Medical doctor,Afternoon,After body fluid exposure,Yes
+Surgical,Nurse,Afternoon,Before patient contact,No
+Paediatric,Nurse,Afternoon,After body fluid exposure,Yes
+Surgical,Nurse,Afternoon,After contact with patient Surroundings,No
+NICU,Medical doctor,Morning,Before patient contact,No
+NICU,Nurse,Morning,Before patient contact,No
+NICU,Medical doctor,Morning,After patient contact,Yes
+NICU,Nurse,Morning,After patient contact,Yes
+NICU,Nurse,Morning,Before patient contact,No
+NICU,Nurse,Morning,After contact with patient Surroundings,No
+NICU,Nurse,Morning,After patient contact,Yes
+NICU,Medical doctor,Morning,After patient contact,Yes
+NICU,Nurse,Morning,Before an aseptic procedure,No
+NICU,Nurse,Morning,After contact with patient Surroundings,No
+NICU,Nurse,Morning,After patient contact,No
+NICU,Nurse,Morning,Before an aseptic procedure,No
+NICU,Nurse,Morning,After patient contact,Yes
+NICU,Nurse,Morning,Before patient contact,Yes
+NICU,Nurse,Morning,After patient contact,Yes
+NICU,Nurse,Morning,After contact with patient Surroundings,No
+NICU,Nurse,Morning,Before patient contact,No
+NICU,Nurse,Morning,After patient contact,Yes
+NICU,Nurse,Morning,Before patient contact,No
+NICU,Nurse,Morning,After contact with patient Surroundings,No
+NICU,Nurse,Morning,After patient contact,Yes
+NICU,Nurse,Morning,Before an aseptic procedure,No
+NICU,Nurse,Morning,After patient contact,Yes
+NICU,Medical doctor,Morning,Before patient contact,No
+NICU,Nurse,Afternoon,Before patient contact,No
+NICU,Medical doctor,Afternoon,After patient contact,Yes
+NICU,Nurse,Morning,After patient contact,Yes
+NICU,Medical doctor,Morning,After patient contact,Yes
+NICU,Nurse,Morning,After contact with patient Surroundings,No
+NICU,Medical doctor,Morning,After contact with patient Surroundings,No
+NICU,Nurse,Morning,Before patient contact,No
+NICU,Medical doctor,Morning,After patient contact,Yes
+NICU,Nurse,Morning,Before an aseptic procedure,No
+NICU,Medical doctor,Morning,Before patient contact,No
+NICU,Nurse,Morning,Before an aseptic procedure,No
+NICU,Medical doctor,Afternoon,After patient contact,Yes
+NICU,Nurse,Morning,After patient contact,Yes
+NICU,Medical doctor,Afternoon,Before an aseptic procedure,No
+NICU,Nurse,Afternoon,After contact with patient Surroundings,No
+NICU,Medical doctor,Afternoon,After patient contact,No
+NICU,Nurse,Afternoon,Before patient contact,No
+NICU,Medical doctor,Afternoon,After patient contact,Yes
+NICU,Nurse,Afternoon,After contact with patient Surroundings,No
+NICU,Medical doctor,Afternoon,Before patient contact,No
+NICU,Nurse,Afternoon,Before patient contact,No
+NICU,Medical doctor,Afternoon,After contact with patient Surroundings,No
+NICU,Nurse,Afternoon,Before an aseptic procedure,No
+NICU,Medical doctor,Afternoon,After patient contact,No
+NICU,Nurse,Afternoon,After contact with patient Surroundings,No
+NICU,Medical doctor,Afternoon,After patient contact,No
+NICU,Nurse,Afternoon,Before an aseptic procedure,No
+NICU,Medical doctor,Afternoon,Before patient contact,No
+NICU,Nurse,Afternoon,After patient contact,No
+NICU,Medical doctor,Afternoon,After patient contact,No
+NICU,Nurse,Afternoon,Before an aseptic procedure,No
+NICU,Medical doctor,Afternoon,After contact with patient Surroundings,No
+NICU,Nurse,Afternoon,After patient contact,Yes
+NICU,Medical doctor,Afternoon,Before an aseptic procedure,No
+NICU,Nurse,Afternoon,After contact with patient Surroundings,No
+NICU,Medical doctor,Afternoon,After contact with patient Surroundings,No
+NICU,Nurse,Afternoon,Before patient contact,No
+NICU,Nurse,Afternoon,After patient contact,Yes
+NICU,Nurse,Night,After patient contact,Yes
+NICU,Nurse,Night,Before patient contact,No
+NICU,Nurse,Night,After patient contact,Yes
+NICU,Nurse,Night,After contact with patient Surroundings,No
+NICU,Nurse,Night,Before patient contact,No
+NICU,Medical doctor,Night,Before patient contact,No
+NICU,Nurse,Night,Before patient contact,No
+NICU,Medical doctor,Night,After patient contact,No
+NICU,Nurse,Night,After patient contact,No
+NICU,Medical doctor,Night,Before patient contact,No
+NICU,Nurse,Night,Before an aseptic procedure,No
+NICU,Medical doctor,Night,After patient contact,No
+NICU,Nurse,Night,Before patient contact,No
+NICU,Medical doctor,Night,Before an aseptic procedure,No
+NICU,Nurse,Night,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Medical doctor,Morning,Before patient contact,No
+Ob/Gyn,Other,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Morning,Before an aseptic procedure,No
+Ob/Gyn,Other,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,After patient contact,Yes
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,Yes
+Ob/Gyn,Other,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,Yes
+Ob/Gyn,Other,Morning,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Morning,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Other,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Medical doctor,Morning,Before patient contact,No
+Ob/Gyn,Other,Morning,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Morning,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,Yes
+Ob/Gyn,Other,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Morning,Before patient contact,No
+Ob/Gyn,Other,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,Yes
+Ob/Gyn,Other,Morning,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Morning,After patient contact,Yes
+Ob/Gyn,Medical doctor,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Other,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Medical doctor,Morning,Before patient contact,No
+Ob/Gyn,Other,Morning,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Morning,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Morning,Before an aseptic procedure,No
+Ob/Gyn,Other,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,Yes
+Ob/Gyn,Other,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,Yes
+Ob/Gyn,Other,Morning,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Morning,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Other,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Morning,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,Yes
+Paediatric,Medical doctor,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Other,Morning,Before patient contact,No
+Paediatric,Medical doctor,Afternoon,Before an aseptic procedure,No
+Paediatric,Nurse,Afternoon,Before an aseptic procedure,No
+Paediatric,Other,Afternoon,After body fluid exposure,Yes
+Paediatric,Medical doctor,Afternoon,After body fluid exposure,Yes
+Paediatric,Nurse,Afternoon,After body fluid exposure,Yes
+Paediatric,Other,Afternoon,Before an aseptic procedure,No
+Paediatric,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Other,Afternoon,After body fluid exposure,Yes
+Paediatric,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Paediatric,Nurse,Afternoon,After body fluid exposure,Yes
+Paediatric,Other,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Afternoon,Before patient contact,No
+Ob/Gyn,Medical doctor,Afternoon,Before patient contact,No
+Ob/Gyn,Midwife,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Afternoon,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Afternoon,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Afternoon,After patient contact,Yes
+Ob/Gyn,Medical doctor,Afternoon,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Afternoon,Before patient contact,No
+Ob/Gyn,Medical doctor,Afternoon,Before patient contact,No
+Ob/Gyn,Midwife,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Afternoon,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Afternoon,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Nurse,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Afternoon,Before patient contact,No
+Ob/Gyn,Medical doctor,Afternoon,Before patient contact,No
+Ob/Gyn,Midwife,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Afternoon,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Afternoon,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Afternoon,Before patient contact,No
+Ob/Gyn,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Night,Before patient contact,No
+Ob/Gyn,Medical doctor,Night,Before patient contact,No
+Ob/Gyn,Other,Night,Before patient contact,No
+Ob/Gyn,Midwife,Night,Before an aseptic procedure,Yes
+Ob/Gyn,Medical doctor,Night,After body fluid exposure,Yes
+Ob/Gyn,Other,Night,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Night,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Night,After contact with patient Surroundings,No
+Ob/Gyn,Other,Night,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Night,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Night,After body fluid exposure,No
+Ob/Gyn,Other,Night,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Night,Before patient contact,No
+Ob/Gyn,Medical doctor,Night,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Night,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Night,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Night,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Night,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Night,After patient contact,Yes
+Ob/Gyn,Medical doctor,Night,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Night,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Night,After contact with patient Surroundings,No
+Medical,Medical doctor,Morning,Before patient contact,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Other,Morning,Before patient contact,No
+Medical,Medical doctor,Morning,After patient contact,Yes
+Medical,Nurse,Morning,After contact with patient Surroundings,No
+Medical,Other,Morning,Before an aseptic procedure,No
+Medical,Medical doctor,Morning,Before patient contact,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Medical doctor,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Other,Morning,Before patient contact,No
+Medical,Medical doctor,Morning,After patient contact,Yes
+Medical,Nurse,Morning,After contact with patient Surroundings,No
+Medical,Other,Morning,Before an aseptic procedure,No
+Medical,Medical doctor,Morning,Before patient contact,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Nurse,Morning,Before an aseptic procedure,Yes
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Medical doctor,Morning,After patient contact,Yes
+Medical,Nurse,Morning,After patient contact,Yes
+Medical,Medical doctor,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Medical doctor,Morning,After body fluid exposure,Yes
+Medical,Nurse,Morning,After contact with patient Surroundings,No
+Medical,Medical doctor,Morning,Before patient contact,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Medical doctor,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Medical doctor,Morning,After patient contact,Yes
+Medical,Nurse,Morning,After body fluid exposure,Yes
+Medical,Medical doctor,Morning,Before patient contact,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Medical doctor,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,After contact with patient Surroundings,No
+Medical,Medical doctor,Morning,After body fluid exposure,Yes
+Medical,Medical doctor,Morning,After patient contact,Yes
+Medical,Medical doctor,Morning,Before patient contact,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Medical doctor,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Medical doctor,Morning,After patient contact,Yes
+Medical,Nurse,Morning,After body fluid exposure,Yes
+Paediatric,Medical doctor,Afternoon,Before patient contact,No
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Other,Afternoon,Before patient contact,No
+Paediatric,Medical doctor,Afternoon,Before an aseptic procedure,No
+Paediatric,Nurse,Afternoon,After contact with patient Surroundings,No
+Paediatric,Other,Afternoon,Before an aseptic procedure,No
+Paediatric,Medical doctor,Afternoon,Before an aseptic procedure,No
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Other,Afternoon,Before an aseptic procedure,No
+Paediatric,Medical doctor,Afternoon,After body fluid exposure,Yes
+Paediatric,Nurse,Afternoon,After patient contact,Yes
+Paediatric,Other,Afternoon,Before an aseptic procedure,No
+Paediatric,Nurse,Afternoon,After contact with patient Surroundings,No
+Paediatric,Medical doctor,Afternoon,Before patient contact,No
+Paediatric,Nurse,Afternoon,Before an aseptic procedure,No
+Paediatric,Medical doctor,Afternoon,Before an aseptic procedure,No
+Paediatric,Nurse,Afternoon,Before an aseptic procedure,No
+Paediatric,Medical doctor,Afternoon,After body fluid exposure,Yes
+Paediatric,Nurse,Afternoon,After patient contact,Yes
+Paediatric,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Paediatric,Nurse,Afternoon,After patient contact,Yes
+Paediatric,Medical doctor,Afternoon,Before patient contact,No
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Medical doctor,Afternoon,Before an aseptic procedure,No
+Paediatric,Nurse,Afternoon,After contact with patient Surroundings,No
+Paediatric,Medical doctor,Afternoon,After body fluid exposure,Yes
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Medical doctor,Afternoon,Before patient contact,No
+Paediatric,Nurse,Afternoon,Before an aseptic procedure,No
+Paediatric,Medical doctor,Afternoon,After patient contact,Yes
+Paediatric,Nurse,Afternoon,After body fluid exposure,Yes
+Paediatric,Medical doctor,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Other,Night,Before patient contact,No
+Paediatric,Medical doctor,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Other,Morning,Before an aseptic procedure,No
+Paediatric,Medical doctor,Morning,After body fluid exposure,Yes
+Paediatric,Nurse,Night,After body fluid exposure,Yes
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Other,Night,Before patient contact,No
+Paediatric,Medical doctor,Night,After patient contact,Yes
+Paediatric,Nurse,Night,After contact with patient Surroundings,No
+Paediatric,Other,Night,Before an aseptic procedure,No
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Medical doctor,Night,After contact with patient Surroundings,No
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Medical doctor,Night,Before an aseptic procedure,No
+Paediatric,Nurse,Night,Before an aseptic procedure,No
+Paediatric,Medical doctor,Night,After patient contact,Yes
+Paediatric,Nurse,Night,After body fluid exposure,Yes
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Medical doctor,Night,After patient contact,Yes
+Paediatric,Nurse,Night,Before an aseptic procedure,No
+Paediatric,Nurse,Night,After body fluid exposure,Yes
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Medical doctor,Night,After patient contact,Yes
+Paediatric,Nurse,Night,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Medical doctor,Morning,Before patient contact,No
+Ob/Gyn,Nurse,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Morning,Before an aseptic procedure,No
+Ob/Gyn,Nurse,Morning,After patient contact,No
+Ob/Gyn,Midwife,Morning,After body fluid exposure,Yes
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,No
+Ob/Gyn,Nurse,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,After patient contact,No
+Ob/Gyn,Medical doctor,Morning,After patient contact,No
+Ob/Gyn,Nurse,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Morning,Before patient contact,No
+Ob/Gyn,Nurse,Night,After patient contact,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Medical doctor,Night,Before an aseptic procedure,No
+Ob/Gyn,Nurse,Night,Before patient contact,No
+Ob/Gyn,Midwife,Night,Before patient contact,No
+Ob/Gyn,Medical doctor,Night,Before an aseptic procedure,No
+Ob/Gyn,Nurse,Night,After patient contact,No
+Ob/Gyn,Midwife,Night,After body fluid exposure,No
+Ob/Gyn,Medical doctor,Night,Before patient contact,No
+Ob/Gyn,Nurse,Night,Before patient contact,No
+Ob/Gyn,Midwife,Night,After patient contact,No
+Ob/Gyn,Medical doctor,Night,After patient contact,No
+Ob/Gyn,Nurse,Night,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Night,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Night,After contact with patient Surroundings,No
+Ob/Gyn,Nurse,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Morning,Before patient contact,No
+Ob/Gyn,Nurse,Night,Before patient contact,No
+Ob/Gyn,Medical doctor,Morning,After body fluid exposure,No
+Ob/Gyn,Nurse,Night,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Morning,After patient contact,No
+Ob/Gyn,Nurse,Morning,After body fluid exposure,No
+Ob/Gyn,Medical doctor,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Nurse,Morning,After patient contact,No
+Ob/Gyn,Medical doctor,Morning,Before patient contact,No
+Ob/Gyn,Nurse,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Nurse,Afternoon,Before patient contact,No
+Ob/Gyn,Medical doctor,Afternoon,After patient contact,No
+Ob/Gyn,Nurse,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Afternoon,Before patient contact,No
+Ob/Gyn,Nurse,Afternoon,After patient contact,No
+Ob/Gyn,Medical doctor,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Nurse,Afternoon,Before patient contact,No
+Ob/Gyn,Medical doctor,Afternoon,After patient contact,No
+Ob/Gyn,Nurse,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Afternoon,Before patient contact,No
+Ob/Gyn,Nurse,Afternoon,Before patient contact,No
+Ob/Gyn,Medical doctor,Afternoon,After patient contact,No
+Ob/Gyn,Nurse,Afternoon,After patient contact,No
+Ob/Gyn,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Nurse,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Medical doctor,Afternoon,Before patient contact,No
+Ob/Gyn,Nurse,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Afternoon,After patient contact,No
+Medical,Medical doctor,Afternoon,Before patient contact,No
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Other,Afternoon,Before patient contact,No
+Medical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Other,Afternoon,After body fluid exposure,No
+Medical,Medical doctor,Afternoon,After body fluid exposure,No
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Other,Afternoon,After body fluid exposure,No
+Medical,Medical doctor,Afternoon,After patient contact,No
+Medical,Nurse,Afternoon,After contact with patient Surroundings,No
+Medical,Other,Afternoon,After patient contact,No
+Medical,Medical doctor,Afternoon,Before patient contact,No
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Medical doctor,Afternoon,After patient contact,No
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Medical doctor,Afternoon,Before patient contact,No
+Medical,Nurse,Afternoon,After contact with patient Surroundings,No
+Medical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Medical doctor,Afternoon,After body fluid exposure,No
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Medical doctor,Afternoon,After patient contact,No
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Nurse,Afternoon,After contact with patient Surroundings,No
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Medical doctor,Night,Before patient contact,No
+Medical,Nurse,Night,Before patient contact,No
+Medical,Medical doctor,Night,Before an aseptic procedure,No
+Medical,Nurse,Night,After contact with patient Surroundings,No
+Medical,Medical doctor,Night,After patient contact,No
+Medical,Nurse,Night,After patient contact,No
+Medical,Medical doctor,Night,Before patient contact,No
+Medical,Nurse,Night,Before patient contact,No
+Medical,Medical doctor,Night,After body fluid exposure,No
+Medical,Nurse,Night,After body fluid exposure,No
+Medical,Medical doctor,Night,After patient contact,No
+Medical,Nurse,Night,After patient contact,No
+Medical,Medical doctor,Night,Before patient contact,No
+Medical,Nurse,Night,Before patient contact,No
+Medical,Medical doctor,Night,Before an aseptic procedure,No
+Medical,Nurse,Night,Before an aseptic procedure,No
+Medical,Medical doctor,Night,After patient contact,No
+Medical,Nurse,Night,After patient contact,No
+Medical,Medical doctor,Night,After contact with patient Surroundings,No
+Medical,Nurse,Night,After contact with patient Surroundings,No
+Medical,Medical doctor,Night,Before patient contact,No
+Medical,Nurse,Night,Before patient contact,No
+Medical,Medical doctor,Night,Before an aseptic procedure,No
+Medical,Nurse,Night,Before an aseptic procedure,No
+Medical,Medical doctor,Night,After patient contact,No
+Medical,Nurse,Night,After contact with patient Surroundings,No
+Medical,Nurse,Night,Before patient contact,No
+Medical,Nurse,Night,After body fluid exposure,No
+Medical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Medical doctor,Afternoon,After body fluid exposure,Yes
+Medical,Nurse,Afternoon,After body fluid exposure,Yes
+Medical,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Medical doctor,Afternoon,After patient contact,No
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Medical doctor,Afternoon,Before patient contact,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,After patient contact,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,After patient contact,Yes
+Paediatric,Nurse,Morning,After patient contact,No
+Paediatric,Nurse,Afternoon,Before patient contact,Yes
+Paediatric,Nurse,Afternoon,After body fluid exposure,Yes
+Paediatric,Nurse,Afternoon,After patient contact,Yes
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Nurse,Afternoon,After contact with patient Surroundings,No
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Nurse,Afternoon,After patient contact,No
+Paediatric,Nurse,Afternoon,After contact with patient Surroundings,No
+Paediatric,Nurse,Afternoon,Before an aseptic procedure,No
+Paediatric,Nurse,Afternoon,After body fluid exposure,Yes
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Medical doctor,Night,After body fluid exposure,Yes
+Paediatric,Nurse,Night,After patient contact,Yes
+Paediatric,Medical doctor,Night,Before an aseptic procedure,No
+Paediatric,Medical doctor,Night,After patient contact,No
+Paediatric,Medical doctor,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Medical doctor,Morning,After body fluid exposure,Yes
+Paediatric,Nurse,Morning,After patient contact,Yes
+Paediatric,Medical doctor,Morning,Before an aseptic procedure,No
+Paediatric,Medical doctor,Morning,After patient contact,No
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Medical doctor,Night,After contact with patient Surroundings,No
+Paediatric,Nurse,Night,After patient contact,Yes
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Medical doctor,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Medical doctor,Morning,After patient contact,Yes
+Paediatric,Nurse,Morning,After contact with patient Surroundings,No
+Paediatric,Nurse,Morning,After patient contact,No
+Paediatric,Nurse,Morning,After patient contact,No
+Paediatric,Nurse,Morning,Before an aseptic procedure,Yes
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Medical doctor,Night,After patient contact,No
+Paediatric,Nurse,Night,After contact with patient Surroundings,No
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Nurse,Night,After contact with patient Surroundings,No
+Paediatric,Medical doctor,Night,After contact with patient Surroundings,No
+Paediatric,Nurse,Night,After patient contact,Yes
+Paediatric,Medical doctor,Night,After body fluid exposure,Yes
+Paediatric,Nurse,Night,After body fluid exposure,Yes
+Paediatric,Medical doctor,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,After patient contact,Yes
+Paediatric,Nurse,Morning,After contact with patient Surroundings,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,After contact with patient Surroundings,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,Before patient contact,No
+Surgical,Other,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,After patient contact,No
+Surgical,Nurse,Morning,Before an aseptic procedure,No
+Surgical,Other,Morning,After contact with patient Surroundings,No
+Surgical,Medical doctor,Morning,After contact with patient Surroundings,No
+Surgical,Nurse,Morning,After body fluid exposure,No
+Surgical,Other,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,Before an aseptic procedure,No
+Surgical,Other,Morning,After body fluid exposure,Yes
+Surgical,Medical doctor,Morning,Before an aseptic procedure,No
+Surgical,Nurse,Morning,After patient contact,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,Before patient contact,No
+Surgical,Medical doctor,Morning,Before an aseptic procedure,No
+Surgical,Nurse,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,After contact with patient Surroundings,No
+Surgical,Nurse,Morning,After patient contact,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,After body fluid exposure,No
+Surgical,Medical doctor,Morning,After body fluid exposure,Yes
+Surgical,Nurse,Morning,After body fluid exposure,Yes
+Surgical,Medical doctor,Morning,After contact with patient Surroundings,No
+Surgical,Nurse,Morning,After patient contact,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,Before patient contact,No
+Surgical,Medical doctor,Morning,After contact with patient Surroundings,No
+Surgical,Nurse,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,Before patient contact,No
+Surgical,Nurse,Morning,After body fluid exposure,No
+Surgical,Medical doctor,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,Before an aseptic procedure,No
+Surgical,Medical doctor,Morning,After patient contact,No
+Surgical,Medical doctor,Morning,After contact with patient Surroundings,No
+Surgical,Medical doctor,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Other,Afternoon,Before an aseptic procedure,No
+Surgical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Medical doctor,Afternoon,After patient contact,Yes
+Surgical,Nurse,Afternoon,After contact with patient Surroundings,Yes
+Surgical,Medical doctor,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,After body fluid exposure,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,After patient contact,Yes
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,After body fluid exposure,Yes
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,After body fluid exposure,No
+Surgical,Nurse,Afternoon,After contact with patient Surroundings,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,After body fluid exposure,No
+Surgical,Nurse,Afternoon,After contact with patient Surroundings,Yes
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Medical doctor,Night,Before patient contact,No
+Surgical,Nurse,Night,Before an aseptic procedure,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,Before patient contact,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Medical doctor,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Other,Afternoon,Before an aseptic procedure,No
+Surgical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Surgical,Nurse,Afternoon,Before an aseptic procedure,No
+Surgical,Other,Afternoon,After body fluid exposure,Yes
+Surgical,Medical doctor,Afternoon,After body fluid exposure,Yes
+Surgical,Nurse,Afternoon,Before patient contact,No
+Surgical,Nurse,Afternoon,After body fluid exposure,Yes
+Surgical,Nurse,Afternoon,After contact with patient Surroundings,No
+Medical,Nurse,Morning,After patient contact,Yes
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Medical doctor,Morning,Before patient contact,No
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,After body fluid exposure,Yes
+Medical,Medical doctor,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,After body fluid exposure,Yes
+Medical,Nurse,Morning,After body fluid exposure,Yes
+Medical,Nurse,Morning,After patient contact,Yes
+Medical,Medical doctor,Morning,After patient contact,No
+Medical,Nurse,Morning,After patient contact,No
+Medical,Nurse,Morning,After contact with patient Surroundings,No
+Medical,Nurse,Morning,After patient contact,No
+Medical,Medical doctor,Morning,After patient contact,No
+Medical,Nurse,Morning,After patient contact,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Nurse,Morning,After contact with patient Surroundings,No
+Medical,Medical doctor,Morning,After contact with patient Surroundings,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Nurse,Morning,After contact with patient Surroundings,No
+Medical,Medical doctor,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,Before patient contact,No
+Medical,Medical doctor,Morning,After patient contact,No
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,Before an aseptic procedure,No
+Medical,Nurse,Morning,After patient contact,Yes
+Medical,Medical doctor,Morning,After contact with patient Surroundings,No
+Medical,Nurse,Morning,After body fluid exposure,Yes
+Medical,Nurse,Morning,After body fluid exposure,Yes
+Medical,Nurse,Morning,After body fluid exposure,Yes
+Medical,Medical doctor,Morning,Before patient contact,No
+Medical,Nurse,Morning,After patient contact,Yes
+Medical,Nurse,Morning,After patient contact,Yes
+Medical,Nurse,Morning,After patient contact,No
+Medical,Medical doctor,Morning,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Nurse,Afternoon,After contact with patient Surroundings,No
+Medical,Medical doctor,Afternoon,After patient contact,No
+Medical,Nurse,Afternoon,After body fluid exposure,Yes
+Medical,Nurse,Afternoon,After body fluid exposure,Yes
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Medical doctor,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,After body fluid exposure,Yes
+Medical,Nurse,Afternoon,After contact with patient Surroundings,No
+Medical,Nurse,Afternoon,After contact with patient Surroundings,No
+Medical,Medical doctor,Afternoon,After body fluid exposure,Yes
+Medical,Nurse,Afternoon,Before an aseptic procedure,Yes
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,Yes
+Medical,Medical doctor,Afternoon,After patient contact,Yes
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Nurse,Afternoon,After patient contact,Yes
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Medical doctor,Afternoon,After contact with patient Surroundings,No
+Medical,Nurse,Night,Before patient contact,No
+Medical,Nurse,Night,Before patient contact,No
+Medical,Nurse,Night,Before patient contact,No
+Medical,Medical doctor,Night,Before patient contact,No
+Medical,Nurse,Night,Before an aseptic procedure,No
+Medical,Nurse,Night,Before an aseptic procedure,Yes
+Medical,Nurse,Night,Before an aseptic procedure,No
+Medical,Medical doctor,Night,After contact with patient Surroundings,No
+Medical,Nurse,Night,After body fluid exposure,Yes
+Medical,Nurse,Night,After body fluid exposure,Yes
+Medical,Nurse,Night,After patient contact,Yes
+Medical,Medical doctor,Night,After body fluid exposure,Yes
+Medical,Nurse,Night,After body fluid exposure,Yes
+Medical,Nurse,Night,Before patient contact,No
+Medical,Nurse,Night,After body fluid exposure,Yes
+Medical,Medical doctor,Night,After body fluid exposure,Yes
+Medical,Nurse,Night,After contact with patient Surroundings,No
+Medical,Nurse,Night,Before an aseptic procedure,No
+Medical,Nurse,Night,After contact with patient Surroundings,No
+Medical,Medical doctor,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Morning,Before patient contact,No
+Surgical,Nurse,Morning,Before an aseptic procedure,No
+Surgical,Nurse,Morning,After contact with patient Surroundings,No
+Surgical,Medical doctor,Morning,Before an aseptic procedure,No
+Surgical,Nurse,Morning,After patient contact,No
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,Before an aseptic procedure,No
+Surgical,Medical doctor,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,After patient contact,No
+Surgical,Medical doctor,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,Before patient contact,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Medical doctor,Night,Before patient contact,No
+Surgical,Nurse,Night,After patient contact,No
+Surgical,Nurse,Night,After body fluid exposure,No
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Medical doctor,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,Before an aseptic procedure,No
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,Before patient contact,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,Before an aseptic procedure,No
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,After patient contact,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Paediatric,Nurse,Morning,After body fluid exposure,No
+Surgical,Nurse,Morning,After contact with patient Surroundings,No
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,Before an aseptic procedure,No
+Surgical,Nurse,Night,After body fluid exposure,Yes
+Surgical,Nurse,Night,After patient contact,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Night,Before an aseptic procedure,No
+Surgical,Medical doctor,Night,Before an aseptic procedure,No
+Surgical,Nurse,Night,After contact with patient Surroundings,No
+Surgical,Nurse,Morning,Before patient contact,No
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Nurse,Night,After patient contact,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Nurse,Night,Before patient contact,Yes
+Paediatric,Medical doctor,Night,Before an aseptic procedure,No
+Paediatric,Medical doctor,Night,Before patient contact,No
+Paediatric,Medical doctor,Night,After patient contact,Yes
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Nurse,Night,After patient contact,Yes
+Paediatric,Nurse,Night,After patient contact,Yes
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,After contact with patient Surroundings,No
+Paediatric,Nurse,Morning,After patient contact,No
+Paediatric,Nurse,Morning,After patient contact,Yes
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,Before patient contact,Yes
+Paediatric,Nurse,Morning,After patient contact,Yes
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Medical doctor,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Afternoon,Before patient contact,No
+Ob/Gyn,Midwife,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Afternoon,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Afternoon,After patient contact,No
+Ob/Gyn,Midwife,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Afternoon,Before patient contact,No
+Ob/Gyn,Midwife,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Afternoon,After body fluid exposure,No
+Ob/Gyn,Midwife,Afternoon,After patient contact,No
+Ob/Gyn,Midwife,Afternoon,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Afternoon,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Night,Before patient contact,No
+Ob/Gyn,Midwife,Night,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Night,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Night,After patient contact,No
+Ob/Gyn,Midwife,Night,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Night,Before patient contact,No
+Ob/Gyn,Midwife,Night,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Night,After body fluid exposure,No
+Ob/Gyn,Midwife,Night,After patient contact,No
+Ob/Gyn,Medical doctor,Night,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Night,After body fluid exposure,No
+Ob/Gyn,Medical doctor,Afternoon,After patient contact,No
+Ob/Gyn,Medical doctor,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Medical doctor,Afternoon,After patient contact,No
+Ob/Gyn,Midwife,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Afternoon,After body fluid exposure,No
+Ob/Gyn,Midwife,Night,After patient contact,No
+Ob/Gyn,Midwife,Afternoon,After body fluid exposure,No
+Ob/Gyn,Midwife,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Night,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,After patient contact,Yes
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,After body fluid exposure,Yes
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Nurse,Afternoon,After patient contact,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before an aseptic procedure,No
+Medical,Nurse,Afternoon,Before patient contact,No
+Medical,Nurse,Afternoon,After contact with patient Surroundings,No
+Medical,Nurse,Morning,After patient contact,Yes
+Medical,Nurse,Morning,After patient contact,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Morning,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Morning,After patient contact,No
+Ob/Gyn,Midwife,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Morning,After body fluid exposure,No
+Ob/Gyn,Midwife,Morning,After patient contact,No
+Ob/Gyn,Midwife,Morning,After contact with patient Surroundings,No
+Ob/Gyn,Nurse,Afternoon,Before patient contact,No
+Ob/Gyn,Nurse,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Nurse,Afternoon,After body fluid exposure,No
+Ob/Gyn,Nurse,Afternoon,After patient contact,No
+Ob/Gyn,Midwife,Afternoon,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Afternoon,After body fluid exposure,Yes
+Ob/Gyn,Midwife,Afternoon,After patient contact,No
+Paediatric,Nurse,Morning,Before patient contact,Yes
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,After patient contact,Yes
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,After contact with patient Surroundings,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Afternoon,Before patient contact,Yes
+Paediatric,Nurse,Afternoon,After body fluid exposure,Yes
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Nurse,Afternoon,After patient contact,No
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Nurse,Afternoon,After body fluid exposure,No
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Nurse,Morning,After patient contact,Yes
+Paediatric,Nurse,Morning,After patient contact,No
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,After body fluid exposure,Yes
+Paediatric,Nurse,Morning,After patient contact,Yes
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Afternoon,After contact with patient Surroundings,No
+Paediatric,Nurse,Afternoon,Before patient contact,No
+Paediatric,Nurse,Afternoon,After body fluid exposure,No
+Paediatric,Nurse,Afternoon,After body fluid exposure,Yes
+Paediatric,Nurse,Night,Before an aseptic procedure,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Nurse,Night,After contact with patient Surroundings,No
+Paediatric,Nurse,Night,Before patient contact,No
+Paediatric,Nurse,Night,After contact with patient Surroundings,No
+Ob/Gyn,Midwife,Morning,Before patient contact,No
+Ob/Gyn,Midwife,Morning,Before an aseptic procedure,No
+Ob/Gyn,Midwife,Morning,After body fluid exposure,No
+Ob/Gyn,Midwife,Afternoon,After patient contact,No
+Ob/Gyn,Midwife,Afternoon,After contact with patient Surroundings,No
+Paediatric,Medical doctor,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Other,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Other,Morning,Before an aseptic procedure,No
+Paediatric,Medical doctor,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Medical doctor,Morning,After patient contact,Yes
+Paediatric,Nurse,Morning,After contact with patient Surroundings,No
+Paediatric,Nurse,Morning,After body fluid exposure,No
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,Before an aseptic procedure,No
+Paediatric,Nurse,Morning,Before an aseptic procedure,Yes
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,After contact with patient Surroundings,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,After patient contact,Yes
+Paediatric,Nurse,Morning,After contact with patient Surroundings,No
+Paediatric,Nurse,Morning,Before patient contact,No
+Paediatric,Nurse,Morning,After contact with patient Surroundings,No

@@ -1,0 +1,64 @@
+BIOPRESS - DATA DICTIONARY
+
+Dataset: modeling_dataset.csv
+Total Records: 917
+Total Columns: 5
+
+1. Ward
+Description: Hospital ward where the observation occurred.
+Type: Categorical
+Role: Input Feature
+
+2. Profcat
+Description: Professional category of the healthcare worker.
+Type: Categorical
+Role: Input Feature
+
+3. Shift
+Description: Work shift during the observation.
+Values: Morning, Afternoon, Night
+Type: Categorical
+Role: Input Feature
+
+4. Indication
+Description: Hand hygiene indication or moment.
+Type: Categorical
+Role: Input Feature
+
+5. Complied
+Description: Indicates whether hand hygiene compliance occurred.
+Values: Yes, No
+Type: Target Variable
+
+IMPORTANT NOTES:
+- Opp is excluded because it is an identifier.
+- HHaction and Missedbutglove are excluded to avoid data leakage.
+- Input Features: Ward, Profcat, Shift, Indication.
+- Target Variable: Complied.
+- Dataset contains 917 records.
+
+DATASET DISTRIBUTION
+
+Ward: 5 Categories
+Profcat: 4 Categories
+Shift: 3 Categories
+Indication: 5 Categories
+
+Target Distribution:
+No: 715 Records
+Yes: 202 Records
+
+PREPROCESSING INFORMATION
+
+Categorical Features:
+OneHotEncoder
+
+Target:
+Complied (Yes / No)
+
+Encoded Feature Count: 17
+
+IMPORTANT:
+The main modeling dataset contains original categorical
+values. Encoding should be performed inside the model
+training pipeline using training data only.

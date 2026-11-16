@@ -1,0 +1,222 @@
+# BIOPRESS Project
+# Data Preparation Report
+
+## 1. Dataset Overview
+
+The original dataset contains:
+- Total Records: 917
+- Total Columns: 8
+
+Original Columns:
+1. Ward
+2. Profcat
+3. Shift
+4. Opp
+5. Indication
+6. HHaction
+7. Missedbutglove
+8. Complied
+
+## 2. Data Quality Inspection
+
+The initial inspection identified:
+
+- No completely duplicated rows.
+- One repeated Opportunity ID (Opp = 788), representing two different observations.
+- Missing values in HHaction and Missedbutglove.
+- Inconsistent Shift category: "After noon" instead of "Afternoon".
+- Imbalanced target distribution.
+
+## 3. Data Cleaning
+
+The Shift category was standardized:
+
+- Before: After noon
+- After: Afternoon
+
+The cleaned dataset was saved as:
+
+data/hand_hygiene_data_cleaned.csv
+
+No records were deleted.
+
+The repeated Opp value was retained because the two records represent different observations.
+
+## 4. Missing Values Analysis
+
+Missing values:
+
+| Column | Missing Count | Percentage |
+|---|---:|---:|
+| HHaction | 715 | 77.97% |
+| Missedbutglove | 202 | 22.03% |
+
+All other columns contain zero missing values.
+
+The missing-value investigation showed a complete association between the missingness patterns of these two columns and the target Complied.
+
+These columns were excluded from model predictors because of data leakage risk.
+
+Missing values were not artificially filled.
+
+## 5. Feature Selection
+
+Approved Features:
+- Ward
+- Profcat
+- Shift
+- Indication
+
+Target:
+- Complied
+
+Excluded Columns:
+- Opp: Identifier, not a predictive feature.
+- HHaction: Excluded because of data leakage risk.
+- Missedbutglove: Excluded because of data leakage risk.
+
+The modeling dataset was saved as:
+
+data/modeling_dataset.csv
+
+Dataset shape: 917 rows × 5 columns.
+
+## 6. Feature Encoding
+
+OneHotEncoder was tested on the four categorical features.
+
+Results:
+- Original Features: 4
+- Encoded Features: 17
+- Ward: 5 categories
+- Profcat: 4 categories
+- Shift: 3 categories
+- Indication: 5 categories
+
+LabelEncoder was tested on the target:
+
+- No = 0
+- Yes = 1
+
+The encoding experiment was saved in:
+
+scripts/encode_features.py
+
+This experiment was performed on the full dataset for validation only. It is not the final training or evaluation procedure.
+
+## 7. Preprocessing Pipeline
+
+A preprocessing pipeline was configured using:
+
+- ColumnTransformer
+- OneHotEncoder
+- Pipeline
+
+The configuration is saved in:
+
+scripts/build_preprocessing.py
+
+The preprocessing pipeline was validated using an 80/20
+stratified train-test split.
+
+The pipeline was fitted on training data only and used
+to transform testing data.
+
+Both datasets produced 17 encoded features.
+
+For model evaluation, preprocessing must be fitted separately inside each training fold to prevent data leakage.
+
+## 8. Target Distribution
+
+| Class | Records |
+|---|---:|
+| No | 715 |
+| Yes | 202 |
+
+The target is imbalanced, so evaluation should include appropriate metrics such as ROC-AUC and PR-AUC.
+
+## 9. Current Status
+
+## 9. Current Status
+
+Completed:
+- Initial dataset inspection.
+- Data quality validation.
+- Shift standardization.
+- Missing values analysis.
+- Feature selection.
+- Encoding experiment.
+- Preprocessing pipeline configuration.
+- Final preprocessing validation.
+- Final data validation.
+- Data preparation report.
+- Data dictionary creation.
+- Team handoff documentation.
+
+Remaining:
+- Final review and confirmation of dataset handoff by the project team.
+- Model training and evaluation support.
+## 10. Limitations
+
+The dataset contains 917 observations and represents a limited data source.
+
+Model results should not be interpreted as causal evidence or used for staff ranking, surveillance, or disciplinary decisions.
+
+Opportunity ID (Opp) Limitation:
+
+The meaning and uniqueness of Opp could not be independently confirmed.
+
+One repeated Opp ID (788) was found in two different observations.
+
+All records were retained.
+Opp was excluded from model features.
+
+The independence of observations should be considered
+when designing model validation and interpreting results.
+
+## 11. Final Data Validation
+
+Final validation was performed on the modeling dataset.
+
+Results:
+
+- Total Records: 917
+- Total Columns: 5
+- Expected Columns: Matched
+- Missing Values: 0
+- Duplicate Rows in Cleaned Source Dataset: 0
+- Duplicate Rows in Modeling Dataset: 701
+- Target Classes: No and Yes
+
+All validation checks passed.
+
+Note: Duplicate rows in the modeling dataset were retained because different original observations can become identical after excluding non-modeling columns. These records were not automatically removed.
+
+Final Validation Status: ALL CHECKS PASSED.
+
+PREPROCESSING PIPELINE VALIDATION
+
+Training Records: 733
+Testing Records: 184
+
+Training Encoded Shape: (733, 17)
+Testing Encoded Shape: (184, 17)
+
+Training Target Distribution:
+No: 572
+Yes: 161
+
+Testing Target Distribution:
+No: 143
+Yes: 41
+
+Same Number of Features: True
+
+Preprocessing fitted on training data only.
+Testing data transformed using the fitted training preprocessor.
+
+Result: PASSED
+
+- Valid Shift Values: PASS
+- Modeling Rows Match Source: PASS
+
